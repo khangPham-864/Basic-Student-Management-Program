@@ -7,17 +7,6 @@
 
 using namespace std;
 
-//PART 3
-//   Improve the simple C++ student management program from Part 2.
-//   In this part, you need to utilize at least one of the following modern C++ features to
-//improve your program:
-//      Smart Pointers
-//      Range For Loop 
-//      Auto
-//      Decltype
-//      Lambda Expression
-
-
 enum class StudentType { Uni, College };
 // Struct used to store numbers of each part of a course that students must take
 struct including {
